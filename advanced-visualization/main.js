@@ -168,11 +168,6 @@ document.getElementById('removeData').addEventListener('click', () => {
     drawChart();
 });
 
-// HTML에 자동 업데이트 버튼 추가
-document.getElementById('controls').innerHTML += `
-    <button id="autoUpdate" style="margin-left: 10px;">자동 업데이트 시작</button>
-`;
-
 /**
  * 실시간 업데이트 기능
  */
