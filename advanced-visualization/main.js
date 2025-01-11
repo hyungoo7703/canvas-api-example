@@ -141,8 +141,9 @@ initChart();
 setupEventListeners();
 window.addEventListener('resize', initChart);
 
-//-----
+//------------
 //이벤트 리스너
+//------------
 
 document.getElementById('randomizeData').addEventListener('click', () => {
     chartState.data = chartState.data.map(() => Math.floor(Math.random() * 100));
