@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "index.html --open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server",
+    "dev": "live-server --port=3000",
+    "build": "echo \"Build script here\""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
 }
