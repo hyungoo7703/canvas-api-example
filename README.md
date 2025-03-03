@@ -1,6 +1,6 @@
 # canvas-api-example
 TIL - JavaScript > 데이터 시각화 > Canvas API 심화
-> #### 정리링크 ☞ [Canvas API 심화](https://github.com/hyungoo7703/TIL/blob/main/javascript/canvasAPI.md)
+> #### 정리링크 ☞ [Canvas API 심화](https://github.com/hyungoo7703/TIL/blob/main/javascript/visualization/canvas.md)
 
 ## 프로젝트 기술 선택
 HTML5 Canvas API + Vanilla JavaScript (ES6+) <br><br>
